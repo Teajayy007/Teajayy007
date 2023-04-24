@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Tissan
-- 👀 I’m interested in mobile and web development
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on flutter and node.js projects
+- 👋 Hi, I’m @Teajay
+- I’m a software engineer with mobile and web experience
 - 📫 How to reach me shoot a dm...
 
 <!---
